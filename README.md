@@ -8,4 +8,4 @@ This application is using the https://jsonplaceholder.typicode.com/ to fetch res
 ## Getting Started
 
 This project is made to learn how to use the flutter application
-This project is part of the tutorial that I follow in this youtube channel https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+This project is part of the tutorial that I followed in this youtube channel https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
